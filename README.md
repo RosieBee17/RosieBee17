@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosieBee17
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on introductory projects to expand my knowledge and improve my command over the language
 - 📫 How to reach me rosendobalmaseda@gmail.com
 
