@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RosieBee17
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on introductory projects to expand my knowledge and improve my command over the language
+- 💞️ I’m looking to collaborate on introductory projects that allow me to get hands-on experience similar to those in the industry
 - 📫 How to reach me rosendobalmaseda@gmail.com
 
 <!---
